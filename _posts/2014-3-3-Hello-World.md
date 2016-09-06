@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing
+title: First Post
 ---
 
-This is just a test..
+Please ignore this, just testing this out...
